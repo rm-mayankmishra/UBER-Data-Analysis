@@ -1,0 +1,1156 @@
+START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE,TIME_DAY,TIME_OF_DAY,MONTH_OF_THE_RIDE,DAY_OF_THE_RIDE,DURATION_OF_THE_RIDE
+2016-01-01 21:11:00,2016-01-01 21:17:00,Business,Fort Pierce,Fort Pierce,5.1,Meal/Entertain,21,Evening,Jan,Fri,6.0
+2016-02-01 01:25:00,2016-02-01 01:37:00,Business,Fort Pierce,Fort Pierce,5.0,UNKNOWN,1,Night,Feb,Mon,12.0
+2016-02-01 20:25:00,2016-02-01 20:38:00,Business,Fort Pierce,Fort Pierce,4.8,Errand/Supplies,20,Evening,Feb,Mon,13.0
+2016-05-01 17:31:00,2016-05-01 17:45:00,Business,Fort Pierce,Fort Pierce,4.7,Meeting,17,Afternoon,May,Sun,14.0
+2016-06-01 14:42:00,2016-06-01 15:49:00,Business,Fort Pierce,West Palm Beach,63.7,Customer Visit,14,Afternoon,June,Wed,67.0
+2016-06-01 17:15:00,2016-06-01 17:19:00,Business,West Palm Beach,West Palm Beach,4.3,Meal/Entertain,17,Afternoon,June,Wed,4.0
+2016-06-01 17:30:00,2016-06-01 17:35:00,Business,West Palm Beach,Palm Beach,7.1,Meeting,17,Afternoon,June,Wed,5.0
+2016-07-01 13:27:00,2016-07-01 13:33:00,Business,Cary,Cary,0.8,Meeting,13,Afternoon,July,Fri,6.0
+2016-10-01 08:05:00,2016-10-01 08:25:00,Business,Cary,Morrisville,8.3,Meeting,8,Morning,Oct,Sat,20.0
+2016-10-01 12:17:00,2016-10-01 12:44:00,Business,Jamaica,New York,16.5,Customer Visit,12,Afternoon,Oct,Sat,27.0
+2016-10-01 15:08:00,2016-10-01 15:51:00,Business,New York,Queens,10.8,Meeting,15,Afternoon,Oct,Sat,43.0
+2016-10-01 18:18:00,2016-10-01 18:53:00,Business,Elmhurst,New York,7.5,Meeting,18,Evening,Oct,Sat,35.0
+2016-10-01 19:12:00,2016-10-01 19:32:00,Business,Midtown,East Harlem,6.2,Meeting,19,Evening,Oct,Sat,20.0
+2016-11-01 08:55:00,2016-11-01 09:21:00,Business,East Harlem,NoMad,6.4,Temporary Site,8,Morning,Nov,Tues,26.0
+2016-11-01 11:56:00,2016-11-01 12:03:00,Business,Flatiron District,Midtown,1.6,Errand/Supplies,11,Morning,Nov,Tues,7.0
+2016-11-01 13:32:00,2016-11-01 13:46:00,Business,Midtown,Midtown East,1.7,Meal/Entertain,13,Afternoon,Nov,Tues,14.0
+2016-11-01 14:30:00,2016-11-01 14:43:00,Business,Midtown East,Midtown,1.9,Meal/Entertain,14,Afternoon,Nov,Tues,13.0
+2016-12-01 12:33:00,2016-12-01 12:49:00,Business,Midtown,Hudson Square,1.9,Meal/Entertain,12,Afternoon,Dec,Thurs,16.0
+2016-12-01 12:53:00,2016-12-01 13:09:00,Business,Hudson Square,Lower Manhattan,4.0,Meal/Entertain,12,Afternoon,Dec,Thurs,16.0
+2016-12-01 14:42:00,2016-12-01 14:56:00,Business,Lower Manhattan,Hudson Square,1.8,Errand/Supplies,14,Afternoon,Dec,Thurs,14.0
+2016-12-01 15:13:00,2016-12-01 15:28:00,Business,Hudson Square,Hell's Kitchen,2.4,Customer Visit,15,Afternoon,Dec,Thurs,15.0
+2016-12-01 15:42:00,2016-12-01 15:54:00,Business,Hell's Kitchen,Midtown,2.0,Errand/Supplies,15,Afternoon,Dec,Thurs,12.0
+2016-12-01 16:02:00,2016-12-01 17:00:00,Business,New York,Queens County,15.1,Meeting,16,Afternoon,Dec,Thurs,58.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Downtown,Gulfton,11.2,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Gulfton,Downtown,11.8,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Houston,Houston,21.9,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Eagan Park,Jamestown Court,3.9,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,8.0,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Durham,10.4,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Durham,Cary,10.4,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,4.8,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Farmington Woods,Whitebridge,4.7,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Whitebridge,Lake Wellingborough,7.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lake Wellingborough,Whitebridge,7.6,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Raleigh,17.1,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Fayetteville Street,Umstead,15.1,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Raleigh,Cary,40.2,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,1.6,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,2.4,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,1.0,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Whitebridge,Hazelwood,2.0,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Hazelwood,Whitebridge,2.3,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Whitebridge,Westpark Place,1.9,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,1.4,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,0.5,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,1.8,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Raleigh,18.7,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Fairmont,Meredith Townes,3.4,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Raleigh,Raleigh,2.7,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Raleigh,Cary,12.9,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Raleigh,19.0,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Meredith Townes,Leesville Hollow,14.7,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Raleigh,Cary,15.7,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,4.6,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,5.2,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Durham,10.4,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Durham,Cary,10.1,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Apex,5.8,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Apex,Cary,5.5,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Apex,5.7,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Apex,Cary,5.7,Customer Visit,0,,Jan,Wed,0.0
+2016-01-02 10:35:00,2016-01-02 11:15:00,Business,Cary,Chapel Hill,19.4,Customer Visit,10,Morning,Jan,Sat,40.0
+2016-01-02 12:10:00,2016-01-02 12:43:00,Business,Chapel Hill,Cary,23.3,Customer Visit,12,Afternoon,Jan,Sat,33.0
+2016-01-02 12:56:00,2016-01-02 13:07:00,Business,Northwoods,Whitebridge,3.9,Meal/Entertain,12,Afternoon,Jan,Sat,11.0
+2016-02-02 13:04:00,2016-02-02 13:23:00,Business,Whitebridge,Williamsburg Manor,8.3,Meeting,13,Afternoon,Feb,Tues,19.0
+2016-02-02 13:51:00,2016-02-02 14:06:00,Business,Cary,Cary,6.0,Errand/Supplies,13,Afternoon,Feb,Tues,15.0
+2016-02-02 14:38:00,2016-02-02 14:42:00,Business,Cary,Cary,1.6,Errand/Supplies,14,Afternoon,Feb,Tues,4.0
+2016-04-02 08:40:00,2016-04-02 09:01:00,Business,Cary,Morrisville,5.2,Errand/Supplies,8,Morning,April,Sat,21.0
+2016-04-02 09:37:00,2016-04-02 10:09:00,Business,Morrisville,Cary,9.7,Meal/Entertain,9,Morning,April,Sat,32.0
+2016-04-02 10:26:00,2016-04-02 10:32:00,Business,Cary,Cary,1.6,Meal/Entertain,10,Morning,April,Sat,6.0
+2016-04-02 15:59:00,2016-04-02 16:03:00,Business,Cary,Cary,1.1,Meal/Entertain,15,Afternoon,April,Sat,4.0
+2016-04-02 16:35:00,2016-04-02 16:39:00,Business,Cary,Cary,1.6,Meal/Entertain,16,Afternoon,April,Sat,4.0
+2016-04-02 18:04:00,2016-04-02 18:31:00,Business,Whitebridge,Macgregor Downs,9.0,Meeting,18,Evening,April,Sat,27.0
+2016-04-02 20:36:00,2016-04-02 20:55:00,Business,Cary,Cary,7.7,Meeting,20,Evening,April,Sat,19.0
+2016-05-02 11:47:00,2016-05-02 12:07:00,Business,Cary,Durham,10.4,Meeting,11,Morning,May,Mon,20.0
+2016-05-02 13:22:00,2016-05-02 13:41:00,Business,Durham,Cary,10.4,Meeting,13,Afternoon,May,Mon,19.0
+2016-06-02 16:20:00,2016-06-02 16:53:00,Business,Cary,Raleigh,11.4,Between Offices,16,Afternoon,June,Thurs,33.0
+2016-06-02 18:57:00,2016-06-02 19:21:00,Business,Raleigh,Cary,9.0,Errand/Supplies,18,Evening,June,Thurs,24.0
+2016-06-02 19:28:00,2016-06-02 19:37:00,Business,Edgehill Farms,Whitebridge,3.2,Meal/Entertain,19,Evening,June,Thurs,9.0
+2016-07-02 16:49:00,2016-07-02 17:01:00,Business,Cary,Apex,5.6,Errand/Supplies,16,Afternoon,July,Sat,12.0
+2016-07-02 18:03:00,2016-07-02 18:17:00,Business,Apex,Cary,5.7,Customer Visit,18,Evening,July,Sat,14.0
+2016-07-02 18:39:00,2016-07-02 18:53:00,Business,Cary,Morrisville,6.1,Temporary Site,18,Evening,July,Sat,14.0
+2016-07-02 20:22:00,2016-07-02 20:40:00,Business,Morrisville,Cary,6.1,Meeting,20,Evening,July,Sat,18.0
+2016-08-02 12:57:00,2016-08-02 13:08:00,Business,Whitebridge,Edgehill Farms,4.3,Meal/Entertain,12,Afternoon,Aug,Tues,11.0
+2016-08-02 14:00:00,2016-08-02 14:10:00,Business,Edgehill Farms,Whitebridge,2.7,Meal/Entertain,14,Afternoon,Aug,Tues,10.0
+2016-09-02 10:54:00,2016-09-02 11:07:00,Personal,Whitebridge,Northwoods,5.3,UNKNOWN,10,Morning,Sep,Fri,13.0
+2016-09-02 11:43:00,2016-09-02 11:50:00,Personal,Northwoods,Tanglewood,3.0,UNKNOWN,11,Morning,Sep,Fri,7.0
+2016-09-02 13:36:00,2016-09-02 13:52:00,Personal,Tanglewood,Preston,5.1,UNKNOWN,13,Afternoon,Sep,Fri,16.0
+2016-09-02 13:58:00,2016-09-02 14:02:00,Personal,Preston,Whitebridge,1.5,UNKNOWN,13,Afternoon,Sep,Fri,4.0
+2016-09-02 18:55:00,2016-09-02 19:11:00,Business,Cary,Morrisville,6.1,UNKNOWN,18,Evening,Sep,Fri,16.0
+2016-09-02 20:24:00,2016-09-02 20:40:00,Business,Morrisville,Cary,6.1,Meal/Entertain,20,Evening,Sep,Fri,16.0
+2016-11-02 16:28:00,2016-11-02 17:10:00,Business,Cary,Raleigh,17.3,Meal/Entertain,16,Afternoon,Nov,Wed,42.0
+2016-11-02 17:49:00,2016-11-02 18:10:00,Business,Eastgate,Walnut Terrace,5.7,Meal/Entertain,17,Afternoon,Nov,Wed,21.0
+2016-11-02 18:24:00,2016-11-02 18:46:00,Business,Raleigh,Morrisville,13.5,Temporary Site,18,Evening,Nov,Wed,22.0
+2016-11-02 20:36:00,2016-11-02 20:51:00,Business,Morrisville,Cary,6.1,Temporary Site,20,Evening,Nov,Wed,15.0
+2016-12-02 08:21:00,2016-12-02 08:42:00,Business,Cary,Durham,8.5,Temporary Site,8,Morning,Dec,Fri,21.0
+2016-12-02 10:45:00,2016-12-02 10:52:00,Business,Durham,Morrisville,2.6,Temporary Site,10,Morning,Dec,Fri,7.0
+2016-12-02 11:14:00,2016-12-02 11:35:00,Business,Morrisville,Raleigh,17.0,Customer Visit,11,Morning,Dec,Fri,21.0
+2016-12-02 13:02:00,2016-12-02 13:36:00,Business,Raleigh,Cary,18.0,Meeting,13,Afternoon,Dec,Fri,34.0
+2016-12-02 14:49:00,2016-12-02 15:06:00,Business,Cary,Morrisville,8.4,Meeting,14,Afternoon,Dec,Fri,17.0
+2016-12-02 15:33:00,2016-12-02 16:06:00,Business,Morrisville,Cary,11.5,Customer Visit,15,Afternoon,Dec,Fri,33.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,8.9,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,East Elmhurst,Jackson Heights,2.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Jackson Heights,East Elmhurst,1.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,East Elmhurst,New York,8.1,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Midtown,Midtown West,2.0,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,New York,Long Island City,13.0,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Long Island City,Jamaica,13.9,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Katunayaka,Unknown Location,43.7,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Colombo,14.1,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Colombo,Colombo,2.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Colombo,Colombo,4.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Colombo,Colombo,1.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Colombo,Colombo,1.8,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Colombo,Colombo,6.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Colombo,Nugegoda,1.1,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Nugegoda,Unknown Location,3.6,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Colombo,14.7,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Colombo,Colombo,1.7,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Colombo,Katunayaka,21.4,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Katunayaka,Katunayaka,0.5,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,23.5,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Islamabad,12.7,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Unknown Location,6.0,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Islamabad,5.2,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Unknown Location,10.0,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,18.3,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,11.2,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Islamabad,7.6,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Islamabad,Islamabad,1.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Islamabad,Islamabad,1.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Unknown Location,7.3,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Islamabad,3.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Islamabad,4.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Islamabad,Unknown Location,13.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Unknown Location,Unknown Location,2.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Unknown Location,Islamabad,14.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Islamabad,Islamabad,3.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Islamabad,Islamabad,1.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,R?walpindi,18.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,R?walpindi,R?walpindi,23.1,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,R?walpindi,Unknown Location,16.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,3.2,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,7.7,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Islamabad,14.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Islamabad,2.4,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Islamabad,4.6,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Unknown Location,8.8,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,8.3,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,22.7,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Islamabad,13.0,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Noorpur Shahan,8.1,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Noorpur Shahan,Unknown Location,2.2,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,9.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,R?walpindi,20.0,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,8.1,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Whitebridge,Preston,1.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Preston,Whitebridge,1.7,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Whitebridge,Heritage Pines,3.1,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Heritage Pines,Whitebridge,3.2,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Whitebridge,Tanglewood,6.0,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Tanglewood,Whitebridge,5.8,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Whitebridge,Westpark Place,6.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Westpark Place,Whitebridge,1.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Durham,10.6,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Durham,Cary,9.9,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Whitebridge,Westpark Place,1.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Westpark Place,Hazelwood,4.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Hazelwood,Whitebridge,2.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Whitebridge,Waverly Place,7.7,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Waverly Place,Whitebridge,6.8,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Whitebridge,Westpark Place,2.1,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Apex,3.8,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Apex,Cary,5.6,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Whitebridge,Hazelwood,2.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Hazelwood,Whitebridge,6.6,Customer Visit,0,,Jan,Wed,0.0
+2016-01-03 18:47:00,2016-01-03 19:10:00,Business,Whitebridge,Wayne Ridge,8.0,Meal/Entertain,18,Evening,Jan,Sun,23.0
+2016-01-03 21:27:00,2016-01-03 21:45:00,Business,Wayne Ridge,Whitebridge,8.0,Meeting,21,Evening,Jan,Sun,18.0
+2016-03-03 09:45:00,2016-03-03 09:52:00,Personal,Whitebridge,Westpark Place,2.2,UNKNOWN,9,Morning,Mar,Thurs,7.0
+2016-03-03 11:04:00,2016-03-03 11:10:00,Business,Westpark Place,Whitebridge,2.3,Errand/Supplies,11,Morning,Mar,Thurs,6.0
+2016-03-03 14:44:00,2016-03-03 14:58:00,Business,Whitebridge,Northwoods,5.2,Meal/Entertain,14,Afternoon,Mar,Thurs,14.0
+2016-03-03 15:27:00,2016-03-03 15:48:00,Business,Cary,Raleigh,7.6,Customer Visit,15,Afternoon,Mar,Thurs,21.0
+2016-03-03 16:02:00,2016-03-03 16:42:00,Business,Raleigh,Cary,17.3,Meeting,16,Afternoon,Mar,Thurs,40.0
+2016-04-03 07:47:00,2016-04-03 08:06:00,Business,Cary,Durham,9.9,Meeting,7,Morning,April,Sun,19.0
+2016-04-03 09:46:00,2016-04-03 10:03:00,Business,Durham,Cary,9.9,Customer Visit,9,Morning,April,Sun,17.0
+2016-04-03 11:46:00,2016-04-03 12:06:00,Business,Cary,Durham,10.4,Meeting,11,Morning,April,Sun,20.0
+2016-04-03 13:03:00,2016-04-03 13:25:00,Business,Durham,Cary,10.9,Meeting,13,Afternoon,April,Sun,22.0
+2016-04-03 13:40:00,2016-04-03 14:09:00,Business,Cary,Raleigh,15.7,Customer Visit,13,Afternoon,April,Sun,29.0
+2016-04-03 15:56:00,2016-04-03 16:08:00,Business,Raleigh,Raleigh,4.9,Meal/Entertain,15,Afternoon,April,Sun,12.0
+2016-04-03 16:16:00,2016-04-03 16:22:00,Business,Fayetteville Street,Depot Historic District,0.8,Errand/Supplies,16,Afternoon,April,Sun,6.0
+2016-04-03 16:43:00,2016-04-03 17:12:00,Business,Raleigh,Cary,13.5,Meeting,16,Afternoon,April,Sun,29.0
+2016-04-03 19:02:00,2016-04-03 19:08:00,Business,Cary,Morrisville,1.9,Temporary Site,19,Evening,April,Sun,6.0
+2016-04-03 19:16:00,2016-04-03 19:25:00,Business,Morrisville,Cary,2.0,Meal/Entertain,19,Evening,April,Sun,9.0
+2016-05-03 11:44:00,2016-05-03 11:59:00,Business,Cary,Morrisville,6.5,Meal/Entertain,11,Morning,May,Tues,15.0
+2016-05-03 12:57:00,2016-05-03 13:12:00,Personal,Weston,Weston,4.2,UNKNOWN,12,Afternoon,May,Tues,15.0
+2016-05-03 14:08:00,2016-05-03 14:18:00,Personal,Morrisville,Cary,3.5,UNKNOWN,14,Afternoon,May,Tues,10.0
+2016-05-03 14:39:00,2016-05-03 15:01:00,Business,Whitebridge,Wayne Ridge,7.8,Meal/Entertain,14,Afternoon,May,Tues,22.0
+2016-05-03 16:52:00,2016-05-03 17:13:00,Business,Cary,Morrisville,7.8,Meal/Entertain,16,Afternoon,May,Tues,21.0
+2016-05-03 17:23:00,2016-05-03 17:34:00,Business,Morrisville,Cary,3.9,Meal/Entertain,17,Afternoon,May,Tues,11.0
+2016-07-03 09:10:00,2016-07-03 09:20:00,Business,Whitebridge,Edgehill Farms,2.8,Errand/Supplies,9,Morning,July,Sun,10.0
+2016-07-03 09:23:00,2016-07-03 09:47:00,Business,Cary,Raleigh,12.4,Customer Visit,9,Morning,July,Sun,24.0
+2016-07-03 12:10:00,2016-07-03 12:26:00,Business,Fayetteville Street,Meredith Townes,5.9,Customer Visit,12,Afternoon,July,Sun,16.0
+2016-07-03 13:57:00,2016-07-03 14:18:00,Business,Meredith Townes,Leesville Hollow,9.4,Meeting,13,Afternoon,July,Sun,21.0
+2016-07-03 15:19:00,2016-07-03 15:45:00,Business,Raleigh,Cary,11.9,Between Offices,15,Afternoon,July,Sun,26.0
+2016-08-03 14:38:00,2016-08-03 14:55:00,Business,Whitebridge,Waverly Place,7.2,Between Offices,14,Afternoon,Aug,Wed,17.0
+2016-08-03 15:35:00,2016-08-03 16:00:00,Business,Waverly Place,Whitebridge,7.6,Meal/Entertain,15,Afternoon,Aug,Wed,25.0
+2016-08-03 16:13:00,2016-08-03 16:25:00,Personal,Whitebridge,Whitebridge,1.6,UNKNOWN,16,Afternoon,Aug,Wed,12.0
+2016-10-03 03:36:00,2016-10-03 03:53:00,Business,Cary,Morrisville,8.4,Meeting,3,Night,Oct,Mon,17.0
+2016-10-03 10:08:00,2016-10-03 10:37:00,Business,East Austin,West University,12.8,Meeting,10,Morning,Oct,Mon,29.0
+2016-10-03 14:39:00,2016-10-03 14:55:00,Business,West University,South Congress,2.3,UNKNOWN,14,Afternoon,Oct,Mon,16.0
+2016-10-03 16:18:00,2016-10-03 16:28:00,Business,South Congress,Arts District,1.6,UNKNOWN,16,Afternoon,Oct,Mon,10.0
+2016-11-03 09:47:00,2016-11-03 09:59:00,Business,The Drag,Congress Ave District,2.0,Meal/Entertain,9,Morning,Nov,Thurs,12.0
+2016-11-03 10:29:00,2016-11-03 10:36:00,Business,Congress Ave District,Downtown,0.8,UNKNOWN,10,Morning,Nov,Thurs,7.0
+2016-11-03 11:57:00,2016-11-03 12:04:00,Business,Downtown,Red River District,1.2,UNKNOWN,11,Morning,Nov,Thurs,7.0
+2016-11-03 13:43:00,2016-11-03 13:51:00,Business,Red River District,Downtown,1.0,UNKNOWN,13,Afternoon,Nov,Thurs,8.0
+2016-11-03 19:21:00,2016-11-03 19:35:00,Business,South Congress,The Drag,2.1,UNKNOWN,19,Evening,Nov,Thurs,14.0
+2016-12-03 09:13:00,2016-12-03 09:22:00,Business,The Drag,South Congress,2.2,UNKNOWN,9,Morning,Dec,Sat,9.0
+2016-12-03 18:27:00,2016-12-03 18:37:00,Personal,South Congress,The Drag,1.9,UNKNOWN,18,Evening,Dec,Sat,10.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,The Drag,Convention Center District,5.7,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,South Congress,North Austin,8.4,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Georgian Acres,The Drag,6.2,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,The Drag,North Austin,10.5,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,North Austin,Coxville,7.2,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Coxville,The Drag,12.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,The Drag,South Congress,2.0,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,South Congress,The Drag,2.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,The Drag,Convention Center District,2.0,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Downtown,The Drag,2.8,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,The Drag,Congress Ave District,1.7,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Convention Center District,West University,2.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,West University,Congress Ave District,2.1,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Downtown,The Drag,1.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Austin,Katy,136.0,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Katy,Houston,30.2,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Midtown,Alief,15.5,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Houston,Houston,4.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Houston,Houston,12.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Sharpstown,Midtown,10.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Midtown,Midtown,1.1,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Midtown,Midtown,1.1,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Midtown,Sharpstown,13.2,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Sharpstown,Sharpstown,1.0,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Sharpstown,Midtown,9.2,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Midtown,Sharpstown,9.4,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Houston,Sugar Land,12.0,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Sugar Land,Houston,35.1,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Houston,Galveston,36.5,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Galveston,Port Bolivar,3.1,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Port Bolivar,Port Bolivar,2.1,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Port Bolivar,Port Bolivar,1.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Port Bolivar,Galveston,7.5,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Galveston,Houston,57.0,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Midtown,Washington Avenue,5.9,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Washington Avenue,Midtown,6.2,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Midtown,Sharpstown,10.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Sharpstown,Briar Meadow,1.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Briar Meadow,Midtown,9.6,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Midtown,Downtown,1.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Downtown,Midtown,0.9,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Midtown,Sharpstown,8.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Sharpstown,Midtown,25.6,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Midtown,Greater Greenspoint,23.0,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Morrisville,Cary,8.1,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Whitebridge,Whitebridge,1.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Whitebridge,Preston,1.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Preston,Whitebridge,1.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Whitebridge,Westpark Place,2.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Westpark Place,Whitebridge,2.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Latta,144.0,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Latta,Jacksonville,310.3,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Jacksonville,Kissimmee,201.0,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Couples Glen,Isles of Buena Vista,6.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Kissimmee,Orlando,8.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Lake Reams,Lake Reams,1.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lake Reams,Lake Reams,2.1,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Orlando,Kissimmee,6.6,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kissimmee,Orlando,6.1,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Orlando,Orlando,6.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Orlando,Kissimmee,7.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Kissimmee,Orlando,3.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Couples Glen,Vista East,27.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Orlando,Kissimmee,25.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Kissimmee,Orlando,13.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Sand Lake Commons,Sky Lake,6.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Sky Lake,Sand Lake Commons,6.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Orlando,Kissimmee,13.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Orlando,Kissimmee,28.8,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kissimmee,Orlando,16.1,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Orlando,Kissimmee,16.4,Meal/Entertain,0,,Jan,Wed,0.0
+2016-01-04 13:43:00,2016-01-04 14:01:00,Business,Kissimmee,Kissimmee,11.0,Meeting,13,Afternoon,Jan,Mon,18.0
+2016-01-04 14:36:00,2016-01-04 15:24:00,Business,Kissimmee,Orlando,15.5,Customer Visit,14,Afternoon,Jan,Mon,48.0
+2016-01-04 16:01:00,2016-01-04 16:49:00,Business,Orlando,Kissimmee,20.3,Meeting,16,Afternoon,Jan,Mon,48.0
+2016-01-04 16:52:00,2016-01-04 16:57:00,Personal,Kissimmee,Kissimmee,0.7,UNKNOWN,16,Afternoon,Jan,Mon,5.0
+2016-02-04 08:48:00,2016-02-04 09:04:00,Personal,Kissimmee,Kissimmee,5.5,UNKNOWN,8,Morning,Feb,Thurs,16.0
+2016-02-04 11:01:00,2016-02-04 11:16:00,Personal,Kissimmee,Kissimmee,5.1,UNKNOWN,11,Morning,Feb,Thurs,15.0
+2016-02-04 12:21:00,2016-02-04 14:47:00,Business,Kissimmee,Daytona Beach,77.3,Customer Visit,12,Afternoon,Feb,Thurs,146.0
+2016-02-04 16:57:00,2016-02-04 18:09:00,Business,Daytona Beach,Jacksonville,80.5,Customer Visit,16,Afternoon,Feb,Thurs,72.0
+2016-02-04 19:38:00,2016-02-04 22:36:00,Business,Jacksonville,Ridgeland,174.2,Customer Visit,19,Evening,Feb,Thurs,178.0
+2016-02-04 23:11:00,2016-03-04 01:34:00,Business,Ridgeland,Florence,144.0,Meeting,23,Night,Feb,Thurs,40463.0
+2016-03-04 02:00:00,2016-03-04 04:16:00,Business,Florence,Cary,159.3,Meeting,2,Night,Mar,Fri,136.0
+2016-05-04 21:39:00,2016-05-04 21:55:00,Business,Whitebridge,Wayne Ridge,7.9,Meal/Entertain,21,Evening,May,Wed,16.0
+2016-06-04 00:19:00,2016-06-04 00:39:00,Business,Wayne Ridge,Whitebridge,8.0,Meal/Entertain,0,,June,Sat,20.0
+2016-07-04 18:20:00,2016-07-04 18:39:00,Business,Cary,Morrisville,6.1,Meal/Entertain,18,Evening,July,Mon,19.0
+2016-07-04 19:45:00,2016-07-04 20:00:00,Business,Morrisville,Cary,6.1,Errand/Supplies,19,Evening,July,Mon,15.0
+2016-08-04 12:30:00,2016-08-04 12:48:00,Business,Cary,Durham,10.5,Meeting,12,Afternoon,Aug,Thurs,18.0
+2016-08-04 13:34:00,2016-08-04 13:51:00,Business,Durham,Cary,8.7,Meal/Entertain,13,Afternoon,Aug,Thurs,17.0
+2016-08-04 13:55:00,2016-08-04 14:03:00,Business,Westpark Place,Whitebridge,1.8,Errand/Supplies,13,Afternoon,Aug,Thurs,8.0
+2016-08-04 14:43:00,2016-08-04 15:20:00,Business,Cary,Raleigh,19.1,Meeting,14,Afternoon,Aug,Thurs,37.0
+2016-08-04 16:05:00,2016-08-04 16:47:00,Business,Raleigh,Cary,18.6,Meeting,16,Afternoon,Aug,Thurs,42.0
+2016-12-04 09:15:00,2016-12-04 09:26:00,Business,Whitebridge,Edgehill Farms,2.8,Errand/Supplies,9,Morning,Dec,Sun,11.0
+2016-12-04 09:34:00,2016-12-04 09:53:00,Business,Cary,Raleigh,8.9,Meeting,9,Morning,Dec,Sun,19.0
+2016-12-04 10:58:00,2016-12-04 11:18:00,Business,Meredith,Cedar Hill,7.5,Customer Visit,10,Morning,Dec,Sun,20.0
+2016-12-04 12:22:00,2016-12-04 12:44:00,Business,Raleigh,Morrisville,15.9,Meeting,12,Afternoon,Dec,Sun,22.0
+2016-12-04 13:42:00,2016-12-04 14:01:00,Business,Morrisville,Cary,6.5,Meal/Entertain,13,Afternoon,Dec,Sun,19.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Holly Springs,15.3,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Holly Springs,Cary,13.7,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Raleigh,11.9,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Meredith Townes,Harden Place,1.4,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Raleigh,Cary,15.2,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,6.0,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,6.1,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Whitebridge,Wayne Ridge,8.2,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Wayne Ridge,Whitebridge,8.0,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Raleigh,13.6,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Raleigh,Cary,22.5,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Durham,10.4,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Durham,Cary,10.0,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Whitebridge,Tanglewood,6.0,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Tanglewood,Whitebridge,6.5,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,3.1,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Chessington,Chessington,1.9,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,4.2,Between Offices,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Whitebridge,Burtrose,4.9,Between Offices,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Burtrose,Whitebridge,4.8,Between Offices,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Raleigh,12.4,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Raleigh,Cary,32.8,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,5.5,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Durham,9.9,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Durham,Cary,10.0,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Durham,14.2,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Durham,Cary,18.2,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Whitebridge,Waverly Place,7.7,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Waverly Place,Whitebridge,6.8,UNKNOWN,0,,Jan,Wed,0.0
+2016-01-05 13:45:00,2016-01-05 13:53:00,Business,Whitebridge,Westpark Place,2.1,Meal/Entertain,13,Afternoon,Jan,Tues,8.0
+2016-01-05 14:26:00,2016-01-05 14:31:00,Business,Westpark Place,Whitebridge,2.3,UNKNOWN,14,Afternoon,Jan,Tues,5.0
+2016-01-05 17:33:00,2016-01-05 17:45:00,Business,Whitebridge,Tanglewood,6.2,Between Offices,17,Afternoon,Jan,Tues,12.0
+2016-01-05 17:54:00,2016-01-05 18:10:00,Business,Tanglewood,Parkway,7.5,Meeting,17,Afternoon,Jan,Tues,16.0
+2016-01-05 22:38:00,2016-01-05 22:49:00,Business,Parkway,Whitebridge,3.1,Errand/Supplies,22,Night,Jan,Tues,11.0
+2016-02-05 14:14:00,2016-02-05 14:21:00,Business,Whitebridge,Westpark Place,2.2,Errand/Supplies,14,Afternoon,Feb,Fri,7.0
+2016-02-05 15:37:00,2016-02-05 15:48:00,Business,Westpark Place,Whitebridge,3.9,Meal/Entertain,15,Afternoon,Feb,Fri,11.0
+2016-03-05 22:20:00,2016-03-05 22:28:00,Business,Morrisville,Cary,2.5,Meal/Entertain,22,Night,Mar,Sat,8.0
+2016-04-05 15:16:00,2016-04-05 15:37:00,Business,Cary,Morrisville,8.7,Meal/Entertain,15,Afternoon,April,Tues,21.0
+2016-04-05 20:55:00,2016-04-05 21:14:00,Business,Mcvan,Capitol One,14.5,Errand/Supplies,20,Evening,April,Tues,19.0
+2016-04-05 21:30:00,2016-04-05 21:36:00,Business,Capitol One,University District,4.5,Meal/Entertain,21,Evening,April,Tues,6.0
+2016-04-05 22:19:00,2016-04-05 22:27:00,Business,University District,Capitol One,5.0,Meal/Entertain,22,Night,April,Tues,8.0
+2016-05-05 21:24:00,2016-05-05 21:36:00,Business,Seattle,Redmond,14.2,Meal/Entertain,21,Evening,May,Thurs,12.0
+2016-05-05 22:34:00,2016-05-05 22:40:00,Business,Redmond,Bellevue,2.9,Errand/Supplies,22,Night,May,Thurs,6.0
+2016-05-05 23:55:00,2016-06-05 00:08:00,Business,Bellevue,Seattle,12.9,Meeting,23,Night,May,Thurs,43213.0
+2016-06-05 05:47:00,2016-06-05 06:02:00,Business,Capitol One,Mcvan,14.4,Meeting,5,Night,June,Sun,15.0
+2016-06-05 16:45:00,2016-06-05 16:59:00,Business,Chapel Hill,Morrisville,17.0,Meeting,16,Afternoon,June,Sun,14.0
+2016-06-05 17:18:00,2016-06-05 17:44:00,Business,Morrisville,Cary,7.9,Customer Visit,17,Afternoon,June,Sun,26.0
+2016-09-05 06:08:00,2016-09-05 06:25:00,Business,Cary,Morrisville,8.4,Customer Visit,6,Night,Sep,Mon,17.0
+2016-09-05 14:39:00,2016-09-05 15:06:00,Business,San Francisco,Palo Alto,20.5,Between Offices,14,Afternoon,Sep,Mon,27.0
+2016-09-05 17:58:00,2016-09-05 18:26:00,Business,Palo Alto,Sunnyvale,9.8,Customer Visit,17,Afternoon,Sep,Mon,28.0
+2016-09-05 19:35:00,2016-09-05 19:59:00,Business,Sunnyvale,Newark,17.6,Customer Visit,19,Evening,Sep,Mon,24.0
+2016-10-05 09:03:00,2016-10-05 09:20:00,Business,Newark,Menlo Park,9.3,Customer Visit,9,Morning,Oct,Wed,17.0
+2016-10-05 17:19:00,2016-10-05 17:31:00,Business,Menlo Park,Newark,7.9,Customer Visit,17,Afternoon,Oct,Wed,12.0
+2016-11-05 08:35:00,2016-11-05 09:12:00,Business,Newark,San Francisco,25.6,Meeting,8,Morning,Nov,Sat,37.0
+2016-11-05 21:47:00,2016-11-05 22:04:00,Business,Morrisville,Cary,8.1,Meeting,21,Evening,Nov,Sat,17.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,3.1,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,3.1,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Whitebridge,Preston,2.8,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Preston,Westpark Place,2.7,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Westpark Place,Whitebridge,1.9,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,8.4,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Raleigh,7.6,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Old City,Parkway Museums,2.9,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Old City,Hog Island,11.2,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,8.2,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,3.0,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,2.5,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Whitebridge,Savon Height,3.6,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Savon Height,Whitebridge,3.6,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Whitebridge,Kildaire Farms,4.5,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Savon Height,Kilarney Woods,1.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kilarney Woods,Kildaire Farms,1.7,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kilarney Woods,Whitebridge,4.7,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,6.1,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,11.3,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Raleigh,14.9,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Raleigh,Cary,14.0,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Westpark Place,Whitebridge,1.8,UNKNOWN,0,,Jan,Wed,0.0
+2016-01-06 10:19:00,2016-01-06 10:47:00,Business,Cary,Morrisville,6.7,Customer Visit,10,Morning,Jan,Wed,28.0
+2016-01-06 13:10:00,2016-01-06 13:39:00,Business,Morrisville,Cary,9.6,Meeting,13,Afternoon,Jan,Wed,29.0
+2016-03-06 11:29:00,2016-03-06 11:49:00,Business,Cary,Durham,10.4,Meeting,11,Morning,Mar,Sun,20.0
+2016-03-06 13:08:00,2016-03-06 13:38:00,Business,Durham,Cary,9.9,Meeting,13,Afternoon,Mar,Sun,30.0
+2016-03-06 15:31:00,2016-03-06 15:54:00,Business,Cary,Morrisville,6.0,Meal/Entertain,15,Afternoon,Mar,Sun,23.0
+2016-03-06 18:14:00,2016-03-06 18:29:00,Business,Townes at Everett Crossing,Chessington,3.3,Errand/Supplies,18,Evening,Mar,Sun,15.0
+2016-03-06 18:41:00,2016-03-06 18:53:00,Business,Morrisville,Cary,3.1,Errand/Supplies,18,Evening,Mar,Sun,12.0
+2016-03-06 19:36:00,2016-03-06 19:42:00,Business,Huntington Woods,Weston,1.7,Errand/Supplies,19,Evening,Mar,Sun,6.0
+2016-03-06 22:47:00,2016-03-06 23:06:00,Business,Morrisville,Cary,4.0,Between Offices,22,Night,Mar,Sun,19.0
+2016-05-06 14:03:00,2016-05-06 14:33:00,Business,Whitebridge,Savon Height,7.8,Customer Visit,14,Afternoon,May,Fri,30.0
+2016-05-06 15:06:00,2016-05-06 15:22:00,Business,Cary,Morrisville,7.8,Customer Visit,15,Afternoon,May,Fri,16.0
+2016-05-06 15:57:00,2016-05-06 16:08:00,Business,Weston,Weston,3.8,Meal/Entertain,15,Afternoon,May,Fri,11.0
+2016-05-06 18:05:00,2016-05-06 18:14:00,Business,Morrisville,Cary,2.5,Meal/Entertain,18,Evening,May,Fri,9.0
+2016-05-06 21:53:00,2016-05-06 22:05:00,Business,Cary,Durham,9.9,Meeting,21,Evening,May,Fri,12.0
+2016-05-06 23:52:00,2016-06-06 00:08:00,Business,Durham,Cary,9.9,Meeting,23,Night,May,Fri,43216.0
+2016-06-06 15:36:00,2016-06-06 15:45:00,Business,Whitebridge,Hazelwood,3.0,Errand/Supplies,15,Afternoon,June,Mon,9.0
+2016-06-06 16:16:00,2016-06-06 16:24:00,Business,Hazelwood,Whitebridge,2.4,Errand/Supplies,16,Afternoon,June,Mon,8.0
+2016-06-06 20:06:00,2016-06-06 20:20:00,Business,Cary,Apex,5.7,Meal/Entertain,20,Evening,June,Mon,14.0
+2016-06-06 21:08:00,2016-06-06 21:37:00,Business,Apex,Cary,7.2,Meal/Entertain,21,Evening,June,Mon,29.0
+2016-06-06 21:41:00,2016-06-06 22:00:00,Business,Cary,Durham,10.4,Meeting,21,Evening,June,Mon,19.0
+2016-06-06 23:34:00,2016-06-06 23:48:00,Business,Durham,Cary,9.9,Meeting,23,Night,June,Mon,14.0
+2016-07-06 21:42:00,2016-07-06 22:00:00,Business,Cary,Durham,10.4,Meeting,21,Evening,July,Wed,18.0
+2016-07-06 23:41:00,2016-08-06 00:04:00,Business,Durham,Cary,9.9,Meeting,23,Night,July,Wed,43223.0
+2016-08-06 08:23:00,2016-08-06 08:53:00,Business,Cary,Morrisville,8.7,Meal/Entertain,8,Morning,Aug,Sat,30.0
+2016-08-06 12:04:00,2016-08-06 13:01:00,Business,Jamaica,New York,22.3,Errand/Supplies,12,Afternoon,Aug,Sat,57.0
+2016-08-06 13:12:00,2016-08-06 13:29:00,Business,Seaport,Gramercy-Flatiron,3.3,Meal/Entertain,13,Afternoon,Aug,Sat,17.0
+2016-08-06 14:31:00,2016-08-06 14:37:00,Business,Medical Centre,Tudor City,0.7,Errand/Supplies,14,Afternoon,Aug,Sat,6.0
+2016-08-06 16:55:00,2016-08-06 17:11:00,Business,Rose Hill,Soho,2.5,Meal/Entertain,16,Afternoon,Aug,Sat,16.0
+2016-08-06 17:16:00,2016-08-06 17:18:00,Business,Soho,Tribeca,0.5,Errand/Supplies,17,Afternoon,Aug,Sat,2.0
+2016-08-06 17:59:00,2016-08-06 18:05:00,Business,Tribeca,Financial District,0.9,Errand/Supplies,17,Afternoon,Aug,Sat,6.0
+2016-08-06 20:11:00,2016-08-06 20:25:00,Business,Financial District,Kips Bay,4.8,Errand/Supplies,20,Evening,Aug,Sat,14.0
+2016-10-06 15:19:00,2016-10-06 16:28:00,Business,New York,Jamaica,16.3,Meeting,15,Afternoon,Oct,Thurs,69.0
+2016-10-06 21:47:00,2016-10-06 22:04:00,Business,Cary,Durham,10.4,Meeting,21,Evening,Oct,Thurs,17.0
+2016-10-06 23:53:00,2016-11-06 00:01:00,Business,Durham,Cary,9.9,Meeting,23,Night,Oct,Thurs,43208.0
+2016-11-06 17:08:00,2016-11-06 17:16:00,Business,Cary,Morrisville,3.7,Errand/Supplies,17,Afternoon,Nov,Sun,8.0
+2016-11-06 17:34:00,2016-11-06 17:39:00,Business,Morrisville,Cary,4.6,Meal/Entertain,17,Afternoon,Nov,Sun,5.0
+2016-11-06 17:50:00,2016-11-06 17:56:00,Business,Westpark Place,Whitebridge,1.7,UNKNOWN,17,Afternoon,Nov,Sun,6.0
+2016-11-06 21:45:00,2016-11-06 22:04:00,Business,Cary,Durham,10.4,Meeting,21,Evening,Nov,Sun,19.0
+2016-11-06 23:39:00,2016-12-06 00:05:00,Business,Durham,Cary,9.9,Meeting,23,Night,Nov,Sun,41786.0
+2016-12-06 19:53:00,2016-12-06 19:56:00,Business,Cary,Morrisville,2.5,Meal/Entertain,19,Evening,Dec,Tues,3.0
+2016-12-06 20:05:00,2016-12-06 20:16:00,Business,Morrisville,Cary,4.3,Errand/Supplies,20,Evening,Dec,Tues,11.0
+2016-12-06 21:58:00,2016-12-06 22:19:00,Business,Parkway,Whitebridge,2.8,Errand/Supplies,21,Evening,Dec,Tues,21.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,8.4,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Oakland,Emeryville,13.2,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Emeryville,Berkeley,3.9,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Berkeley,Oakland,5.1,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Oakland,Unknown Location,5.2,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Emeryville,San Francisco,9.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,San Francisco,Emeryville,11.6,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Emeryville,Oakland,5.1,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Downtown,Bay Farm Island,9.3,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kenner,New Orleans,12.4,Between Offices,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,CBD,Lower Garden District,1.9,Between Offices,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lower Garden District,Lakeview,6.4,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Lakeview,Storyville,5.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Storyville,Faubourg Marigny,1.5,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,New Orleans,Metairie,14.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Metairie,Kenner,2.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kenner,New Orleans,15.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,New Orleans,Kenner,12.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kenner,New Orleans,13.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,New Orleans,Kenner,12.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,8.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Raleigh,6.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Raleigh,Cary,5.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Raleigh,19.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Raleigh,Cary,16.6,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Whitebridge,Waverly Place,7.1,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Waverly Place,Macgregor Downs,2.1,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Raleigh,8.6,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Raleigh,Morrisville,9.0,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,3.1,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,8.4,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kenner,New Orleans,12.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,CBD,Bywater,4.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,New Orleans,Chalmette,11.8,Between Offices,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Chalmette,Arabi,1.1,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Arabi,Metairie,17.0,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Pontchartrain Shores,Pontchartrain Shores,1.7,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Metairie,New Orleans,15.5,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Storyville,Marigny,1.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Marigny,Storyville,1.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,New Orleans,Kenner,12.6,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Pontchartrain Shores,Pontchartrain Shores,4.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kenner,Kenner,2.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kenner,New Orleans,13.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,New Orleans,Covington,46.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Covington,Covington,2.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Covington,Covington,8.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Covington,Covington,5.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Covington,Covington,7.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Covington,Covington,1.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Covington,Mandeville,4.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Mandeville,Mandeville,2.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Mandeville,Metairie,30.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Metairie,Kenner,4.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Jamestown Court,Jamestown Court,1.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,8.2,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Durham,10.4,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Durham,Cary,9.9,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Durham,Cary,9.9,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,7.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,7.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Whitebridge,Westpark Place,1.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Westpark Place,Whitebridge,1.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Durham,10.4,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Durham,Cary,9.9,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Durham,9.9,Meeting,0,,Jan,Wed,0.0
+2016-01-07 00:00:00,2016-01-07 00:25:00,Business,Durham,Cary,9.9,Meeting,0,,Jan,Thurs,25.0
+2016-01-07 09:34:00,2016-01-07 09:57:00,Business,Cary,Raleigh,13.3,Meeting,9,Morning,Jan,Thurs,23.0
+2016-01-07 12:36:00,2016-01-07 13:00:00,Business,Raleigh,Cary,11.3,Meeting,12,Afternoon,Jan,Thurs,24.0
+2016-01-07 20:06:00,2016-01-07 20:24:00,Business,Cary,Durham,10.5,Meeting,20,Evening,Jan,Thurs,18.0
+2016-01-07 23:48:00,2016-02-07 00:09:00,Business,Durham,Cary,9.9,Meeting,23,Night,Jan,Thurs,43221.0
+2016-02-07 20:18:00,2016-02-07 20:36:00,Business,Cary,Durham,10.1,Meeting,20,Evening,Feb,Sun,18.0
+2016-02-07 23:48:00,2016-03-07 00:12:00,Business,Durham,Cary,9.9,Meeting,23,Night,Feb,Sun,40344.0
+2016-03-07 00:28:00,2016-03-07 00:38:00,Business,Cary,Morrisville,3.1,Errand/Supplies,0,,Mar,Mon,10.0
+2016-03-07 03:02:00,2016-03-07 03:08:00,Business,Morrisville,Cary,3.1,Errand/Supplies,3,Night,Mar,Mon,6.0
+2016-03-07 20:00:00,2016-03-07 20:18:00,Business,Cary,Durham,9.9,Meeting,20,Evening,Mar,Mon,18.0
+2016-04-07 00:32:00,2016-04-07 00:47:00,Business,Durham,Cary,9.9,Meeting,0,,April,Thurs,15.0
+2016-04-07 17:31:00,2016-04-07 17:49:00,Business,Whitebridge,Summerwinds,8.8,Meeting,17,Afternoon,April,Thurs,18.0
+2016-04-07 18:23:00,2016-04-07 18:49:00,Business,Summerwinds,Whitebridge,8.7,Temporary Site,18,Evening,April,Thurs,26.0
+2016-04-07 20:00:00,2016-04-07 20:17:00,Business,Cary,Durham,11.8,Meeting,20,Evening,April,Thurs,17.0
+2016-05-07 00:00:00,2016-05-07 00:05:00,Business,Parkwood,Parkwood,1.2,Errand/Supplies,0,,May,Sat,5.0
+2016-05-07 00:08:00,2016-05-07 00:28:00,Business,Durham,Cary,9.9,Meeting,0,,May,Sat,20.0
+2016-05-07 16:48:00,2016-05-07 16:52:00,Business,Whitebridge,Whitebridge,0.6,Errand/Supplies,16,Afternoon,May,Sat,4.0
+2016-05-07 20:06:00,2016-05-07 20:26:00,Business,Cary,Durham,9.9,UNKNOWN,20,Evening,May,Sat,20.0
+2016-05-07 22:41:00,2016-05-07 23:02:00,Business,Durham,Morrisville,8.6,UNKNOWN,22,Night,May,Sat,21.0
+2016-06-07 00:33:00,2016-06-07 00:53:00,Business,Morrisville,Cary,6.3,Meal/Entertain,0,,June,Tues,20.0
+2016-06-07 09:06:00,2016-06-07 09:25:00,Business,Cary,Durham,9.9,Meeting,9,Morning,June,Tues,19.0
+2016-06-07 12:48:00,2016-06-07 13:08:00,Business,Durham,Cary,9.9,UNKNOWN,12,Afternoon,June,Tues,20.0
+2016-06-07 20:04:00,2016-06-07 20:14:00,Business,Cary,Morrisville,3.3,Meal/Entertain,20,Evening,June,Tues,10.0
+2016-06-07 23:46:00,2016-06-07 23:59:00,Business,Morrisville,Cary,3.1,Customer Visit,23,Night,June,Tues,13.0
+2016-07-07 08:22:00,2016-07-07 08:50:00,Business,Cary,Morrisville,7.9,Temporary Site,8,Morning,July,Thurs,28.0
+2016-07-07 10:27:00,2016-07-07 10:33:00,Business,Morrisville,Cary,8.9,UNKNOWN,10,Morning,July,Thurs,6.0
+2016-07-07 12:59:00,2016-07-07 13:35:00,Business,Kenner,New Orleans,12.8,UNKNOWN,12,Afternoon,July,Thurs,36.0
+2016-08-07 09:50:00,2016-08-07 10:13:00,Business,CBD,Pontchartrain Beach,7.7,UNKNOWN,9,Morning,Aug,Sun,23.0
+2016-08-07 10:51:00,2016-08-07 11:12:00,Business,Pontchartrain Beach,CBD,7.0,UNKNOWN,10,Morning,Aug,Sun,21.0
+2016-08-07 13:48:00,2016-08-07 14:11:00,Business,New Orleans,Metairie,12.5,UNKNOWN,13,Afternoon,Aug,Sun,23.0
+2016-08-07 17:11:00,2016-08-07 17:30:00,Business,Kenner,New Orleans,13.2,UNKNOWN,17,Afternoon,Aug,Sun,19.0
+2016-09-07 09:03:00,2016-09-07 09:46:00,Business,New Orleans,Kenner,13.0,UNKNOWN,9,Morning,Sep,Wed,43.0
+2016-09-07 09:52:00,2016-09-07 10:06:00,Business,Kenner,Metairie,4.9,UNKNOWN,9,Morning,Sep,Wed,14.0
+2016-09-07 10:15:00,2016-09-07 10:33:00,Business,Metairie,New Orleans,8.5,UNKNOWN,10,Morning,Sep,Wed,18.0
+2016-10-07 14:10:00,2016-10-07 14:17:00,Business,CBD,St Thomas,1.3,UNKNOWN,14,Afternoon,Oct,Fri,7.0
+2016-10-07 16:04:00,2016-10-07 16:15:00,Business,St Thomas,CBD,1.8,UNKNOWN,16,Afternoon,Oct,Fri,11.0
+2016-10-07 18:05:00,2016-10-07 18:21:00,Business,New Orleans,Kenner,13.6,UNKNOWN,18,Evening,Oct,Fri,16.0
+2016-10-07 19:51:00,2016-10-07 20:08:00,Business,Kenner,New Orleans,13.4,UNKNOWN,19,Evening,Oct,Fri,17.0
+2016-12-07 16:10:00,2016-12-07 16:45:00,Business,New Orleans,Kenner,12.3,UNKNOWN,16,Afternoon,Dec,Wed,35.0
+2016-12-07 19:21:00,2016-12-07 19:26:00,Personal,Kenner,Kenner,1.4,UNKNOWN,19,Evening,Dec,Wed,5.0
+2016-12-07 23:47:00,2020-01-01 00:00:00,Personal,Morrisville,Cary,8.7,UNKNOWN,23,Night,Dec,Wed,1611373.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Cary,Morrisville,23.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Morrisville,Morrisville,2.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Morrisville,Cary,4.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Cary,Morrisville,3.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Morrisville,11.8,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Banner Elk,195.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Banner Elk,Banner Elk,8.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Banner Elk,Banner Elk,3.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Banner Elk,Elk Park,22.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Elk Park,Banner Elk,12.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Banner Elk,Banner Elk,4.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Banner Elk,Newland,28.1,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Newland,Newland,3.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Newland,Boone,41.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Boone,Banner Elk,23.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Banner Elk,Banner Elk,13.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Banner Elk,Banner Elk,4.4,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Banner Elk,Boone,15.1,Charity ($),0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Boone,Cary,180.2,Commute,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Cary,Morrisville,4.1,Moving,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Morrisville,Cary,6.1,Moving,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Northwoods,Preston,3.3,Moving,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Preston,Whitebridge,4.7,Moving,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Apex,7.2,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Apex,Cary,5.5,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,3.3,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Hazelwood,Weston,0.9,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,3.8,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Whitebridge,Stonewater,6.4,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Stonewater,Lexington Park at Amberly,3.0,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lexington Park at Amberly,Whitebridge,8.7,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Whitebridge,Chessington,3.9,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Chessington,Whitebridge,4.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Whitebridge,Edgehill Farms,2.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Edgehill Farms,Preston,1.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Personal,Preston,Whitebridge,1.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Whitebridge,Edgehill Farms,2.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Edgehill Farms,Burtrose,2.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,3.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,2.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,3.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,5.1,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Hazelwood,Lexington Park at Amberly,9.1,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Durham,8.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Durham,Cary,9.9,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,6.1,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,12.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Wayne Ridge,Whitebridge,8.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,4.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,9.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,3.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,6.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Durham,10.4,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Durham,Cary,9.9,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Whitebridge,Parkway,1.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,4.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,7.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Parkway,Whitebridge,1.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Whitebridge,Westpark Place,2.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Westpark Place,Whitebridge,2.1,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,2.5,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,2.5,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,2.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Raleigh,14.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Raleigh,Morrisville,14.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,2.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Whitebridge,Westpark Place,2.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Westpark Place,Whitebridge,2.2,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Durham,14.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Durham,Cary,13.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Westpark Place,Whitebridge,1.8,UNKNOWN,0,,Jan,Wed,0.0
+2016-01-08 12:47:00,2016-01-08 13:04:00,Business,Whitebridge,Arlington Park at Amberly,6.2,UNKNOWN,12,Afternoon,Jan,Fri,17.0
+2016-01-08 13:08:00,2016-01-08 13:19:00,Business,Arlington Park at Amberly,Lexington Park at Amberly,1.3,UNKNOWN,13,Afternoon,Jan,Fri,11.0
+2016-01-08 13:28:00,2016-01-08 13:46:00,Business,Lexington Park at Amberly,Westpark Place,1.9,UNKNOWN,13,Afternoon,Jan,Fri,18.0
+2016-01-08 13:52:00,2016-01-08 14:14:00,Business,Cary,Apex,6.9,UNKNOWN,13,Afternoon,Jan,Fri,22.0
+2016-01-08 15:40:00,2016-01-08 15:47:00,Business,Apex,Cary,4.6,UNKNOWN,15,Afternoon,Jan,Fri,7.0
+2016-01-08 16:18:00,2016-01-08 16:25:00,Business,Whitebridge,Edgehill Farms,2.8,UNKNOWN,16,Afternoon,Jan,Fri,7.0
+2016-01-08 16:29:00,2016-01-08 16:59:00,Business,Cary,Morrisville,9.1,UNKNOWN,16,Afternoon,Jan,Fri,30.0
+2016-01-08 17:23:00,2016-01-08 17:55:00,Business,Morrisville,Cary,8.1,UNKNOWN,17,Afternoon,Jan,Fri,32.0
+2016-02-08 08:11:00,2016-02-08 08:32:00,Business,Cary,Morrisville,8.4,Meeting,8,Morning,Feb,Mon,21.0
+2016-02-08 11:51:00,2016-02-08 12:15:00,Business,Arlington,Washington,4.9,UNKNOWN,11,Morning,Feb,Mon,24.0
+2016-02-08 19:15:00,2016-02-08 19:23:00,Business,Kalorama Triangle,K Street,1.0,UNKNOWN,19,Evening,Feb,Mon,8.0
+2016-02-08 21:23:00,2016-02-08 21:29:00,Business,K Street,Kalorama Triangle,1.0,UNKNOWN,21,Evening,Feb,Mon,6.0
+2016-03-08 12:46:00,2016-03-08 13:00:00,Business,West End,Northwest Rectangle,2.0,UNKNOWN,12,Afternoon,Mar,Tues,14.0
+2016-03-08 14:59:00,2016-03-08 15:03:00,Business,K Street,Kalorama Triangle,1.1,UNKNOWN,14,Afternoon,Mar,Tues,4.0
+2016-03-08 16:00:00,2016-03-08 16:04:00,Business,Kalorama Triangle,Downtown,1.5,UNKNOWN,16,Afternoon,Mar,Tues,4.0
+2016-05-08 17:23:00,2016-05-08 17:30:00,Business,Connecticut Avenue,Kalorama Triangle,1.3,UNKNOWN,17,Afternoon,May,Sun,7.0
+2016-05-08 18:17:00,2016-05-08 18:21:00,Business,Kalorama Triangle,Columbia Heights,1.8,UNKNOWN,18,Evening,May,Sun,4.0
+2016-05-08 19:17:00,2016-05-08 19:27:00,Business,Columbia Heights,Kalorama Triangle,1.5,UNKNOWN,19,Evening,May,Sun,10.0
+2016-06-08 06:40:00,2016-06-08 06:58:00,Business,Washington,Arlington,6.6,UNKNOWN,6,Night,June,Wed,18.0
+2016-06-08 09:31:00,2016-06-08 09:53:00,Business,Morrisville,Cary,8.0,UNKNOWN,9,Morning,June,Wed,22.0
+2016-07-08 17:14:00,2016-07-08 17:23:00,Business,Whitebridge,Edgehill Farms,2.7,UNKNOWN,17,Afternoon,July,Fri,9.0
+2016-07-08 17:28:00,2016-07-08 17:43:00,Business,Edgehill Farms,Whitebridge,2.7,Customer Visit,17,Afternoon,July,Fri,15.0
+2016-07-08 18:17:00,2016-07-08 18:23:00,Business,Cary,Morrisville,2.5,UNKNOWN,18,Evening,July,Fri,6.0
+2016-07-08 20:15:00,2016-07-08 20:23:00,Business,Morrisville,Cary,2.5,Meal/Entertain,20,Evening,July,Fri,8.0
+2016-08-08 16:17:00,2016-08-08 16:31:00,Business,Whitebridge,Farmington Woods,5.2,UNKNOWN,16,Afternoon,Aug,Mon,14.0
+2016-08-08 16:37:00,2016-08-08 16:50:00,Business,Farmington Woods,Edgehill Farms,4.0,UNKNOWN,16,Afternoon,Aug,Mon,13.0
+2016-08-08 17:02:00,2016-08-08 17:13:00,Business,Edgehill Farms,Whitebridge,2.7,Customer Visit,17,Afternoon,Aug,Mon,11.0
+2016-08-08 21:50:00,2016-08-08 22:15:00,Business,Cary,Morrisville,4.8,UNKNOWN,21,Evening,Aug,Mon,25.0
+2016-08-08 23:28:00,2016-08-08 23:37:00,Business,Morrisville,Cary,3.2,Customer Visit,23,Night,Aug,Mon,9.0
+2016-09-08 14:20:00,2016-09-08 14:38:00,Business,Whitebridge,Waverly Place,6.9,UNKNOWN,14,Afternoon,Sep,Thurs,18.0
+2016-09-08 15:15:00,2016-09-08 15:36:00,Business,Cary,Raleigh,14.9,UNKNOWN,15,Afternoon,Sep,Thurs,21.0
+2016-09-08 16:04:00,2016-09-08 16:37:00,Business,Raleigh,Cary,17.4,UNKNOWN,16,Afternoon,Sep,Thurs,33.0
+2016-10-08 16:56:00,2016-10-08 17:24:00,Business,Cary,Durham,12.9,UNKNOWN,16,Afternoon,Oct,Sat,28.0
+2016-10-08 17:53:00,2016-10-08 18:28:00,Business,Durham,Apex,15.3,UNKNOWN,17,Afternoon,Oct,Sat,35.0
+2016-10-08 18:49:00,2016-10-08 18:50:00,Business,Apex,Apex,1.0,UNKNOWN,18,Evening,Oct,Sat,1.0
+2016-10-08 19:47:00,2016-10-08 20:02:00,Business,Apex,Cary,6.0,UNKNOWN,19,Evening,Oct,Sat,15.0
+2016-11-08 12:53:00,2016-11-08 13:00:00,Business,Whitebridge,Heritage Pines,2.2,UNKNOWN,12,Afternoon,Nov,Tues,7.0
+2016-11-08 13:14:00,2016-11-08 13:28:00,Business,Heritage Pines,Edgehill Farms,4.4,UNKNOWN,13,Afternoon,Nov,Tues,14.0
+2016-11-08 13:32:00,2016-11-08 13:42:00,Business,Edgehill Farms,Whitebridge,2.8,UNKNOWN,13,Afternoon,Nov,Tues,10.0
+2016-11-08 18:37:00,2016-11-08 19:29:00,Business,Cary,Wake Forest,31.7,UNKNOWN,18,Evening,Nov,Tues,52.0
+2016-11-08 20:59:00,2016-11-08 21:44:00,Business,Wake Forest,Cary,31.9,UNKNOWN,20,Evening,Nov,Tues,45.0
+2016-12-08 18:49:00,2016-12-08 18:52:00,Business,Whitebridge,Westpark Place,1.9,UNKNOWN,18,Evening,Dec,Thurs,3.0
+2016-12-08 18:56:00,2016-12-08 19:05:00,Business,Westpark Place,Whitebridge,1.8,UNKNOWN,18,Evening,Dec,Thurs,9.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,8.4,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,R?walpindi,Unknown Location,15.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,14.1,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,15.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,25.9,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,7.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,2.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,5.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Islamabad,5.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Islamabad,1.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Unknown Location,5.7,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,16.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,2.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,12.1,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,R?walpindi,1.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,R?walpindi,Islamabad,6.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Unknown Location,7.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,5.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,5.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,7.7,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,7.6,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Noorpur Shahan,7.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Noorpur Shahan,Islamabad,3.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,R?walpindi,6.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,R?walpindi,Unknown Location,2.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Islamabad,5.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Islamabad,3.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Unknown Location,12.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,7.6,Airport/Travel,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,7.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Islamabad,12.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Islamabad,1.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Unknown Location,20.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Islamabad,9.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Unknown Location,6.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Islamabad,4.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Islamabad,1.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Unknown Location,10.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,19.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,19.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,R?walpindi,7.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,R?walpindi,R?walpindi,4.1,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,R?walpindi,Unknown Location,18.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Noorpur Shahan,8.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Noorpur Shahan,Unknown Location,7.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Noorpur Shahan,7.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Noorpur Shahan,Islamabad,4.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Unknown Location,5.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,1.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,7.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,17.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,25.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,96.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,35.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,5.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,50.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Lahore,9.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Unknown Location,7.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,5.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,3.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Lahore,3.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Lahore,7.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Lahore,1.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Unknown Location,7.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Lahore,2.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Lahore,3.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Lahore,3.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Unknown Location,5.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Lahore,9.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Lahore,7.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Lahore,0.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Unknown Location,86.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,156.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Noorpur Shahan,10.1,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Noorpur Shahan,Islamabad,6.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Islamabad,5.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Unknown Location,12.1,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Islamabad,10.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Islamabad,4.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Islamabad,2.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Unknown Location,5.7,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Islamabad,2.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Unknown Location,4.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Islamabad,5.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Islamabad,2.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,2.1,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Islamabad,8.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Islamabad,4.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Unknown Location,5.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,13.0,UNKNOWN,0,,Jan,Wed,0.0
+2016-01-09 11:51:00,2016-01-09 12:24:00,Business,Unknown Location,Islamabad,13.0,UNKNOWN,11,Morning,Jan,Sat,33.0
+2016-01-09 17:21:00,2016-01-09 17:36:00,Business,Islamabad,Unknown Location,10.6,UNKNOWN,17,Afternoon,Jan,Sat,15.0
+2016-01-09 18:49:00,2016-01-09 19:08:00,Business,Unknown Location,Unknown Location,2.2,UNKNOWN,18,Evening,Jan,Sat,19.0
+2016-02-09 11:37:00,2016-02-09 12:24:00,Business,Unknown Location,Islamabad,9.2,UNKNOWN,11,Morning,Feb,Tues,47.0
+2016-02-09 18:56:00,2016-02-09 19:37:00,Business,Unknown Location,Unknown Location,12.9,UNKNOWN,18,Evening,Feb,Tues,41.0
+2016-05-09 10:25:00,2016-05-09 10:44:00,Business,Unknown Location,R?walpindi,17.2,UNKNOWN,10,Morning,May,Mon,19.0
+2016-06-09 17:49:00,2016-06-09 17:49:00,Business,Unknown Location,Unknown Location,69.1,UNKNOWN,17,Afternoon,June,Thurs,0.0
+2016-10-09 10:28:00,2016-10-09 10:45:00,Business,Unknown Location,Unknown Location,2.8,UNKNOWN,10,Morning,Oct,Sun,17.0
+2016-11-09 09:51:00,2016-11-09 09:55:00,Business,Unknown Location,Unknown Location,8.6,UNKNOWN,9,Morning,Nov,Wed,4.0
+2016-11-09 21:40:00,2016-11-09 21:42:00,Business,Unknown Location,Unknown Location,9.8,UNKNOWN,21,Evening,Nov,Wed,2.0
+2016-12-09 08:07:00,2016-12-09 08:12:00,Business,Unknown Location,Unknown Location,3.6,UNKNOWN,8,Morning,Dec,Fri,5.0
+2016-12-09 11:15:00,2016-12-09 11:24:00,Business,Unknown Location,Unknown Location,1.7,UNKNOWN,11,Morning,Dec,Fri,9.0
+2016-12-09 13:04:00,2016-12-09 13:44:00,Business,Unknown Location,Unknown Location,11.5,UNKNOWN,13,Afternoon,Dec,Fri,40.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,0.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,0.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,0.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,1.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,9.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,R?walpindi,Unknown Location,18.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Islamabad,10.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Unknown Location,5.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,18.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Islamabad,18.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Unknown Location,16.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,R?walpindi,9.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Karachi,Karachi,2.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Karachi,Unknown Location,8.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,2.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,5.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Lahore,9.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Unknown Location,7.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,195.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Unknown Location,20.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Islamabad,12.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Islamabad,37.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Unknown Location,16.7,UNKNOWN,0,,Jan,Wed,0.0
+2016-03-10 17:09:00,2016-03-10 17:12:00,Business,Unknown Location,Islamabad,10.5,UNKNOWN,17,Afternoon,Mar,Thurs,3.0
+2016-03-10 18:17:00,2016-03-10 18:34:00,Business,Islamabad,Islamabad,2.8,UNKNOWN,18,Evening,Mar,Thurs,17.0
+2016-03-10 18:51:00,2016-03-10 19:01:00,Business,Islamabad,Islamabad,1.6,UNKNOWN,18,Evening,Mar,Thurs,10.0
+2016-03-10 22:04:00,2016-03-10 22:33:00,Business,Islamabad,Unknown Location,12.7,UNKNOWN,22,Night,Mar,Thurs,29.0
+2016-04-10 09:50:00,2016-04-10 10:52:00,Business,Unknown Location,Unknown Location,28.6,UNKNOWN,9,Morning,April,Sun,62.0
+2016-04-10 12:17:00,2016-04-10 12:18:00,Business,Unknown Location,Unknown Location,15.1,UNKNOWN,12,Afternoon,April,Sun,1.0
+2016-06-10 08:49:00,2016-06-10 11:36:00,Business,Unknown Location,R?walpindi,17.9,UNKNOWN,8,Morning,June,Fri,167.0
+2016-06-10 17:23:00,2016-06-10 17:40:00,Business,R?walpindi,Unknown Location,112.6,UNKNOWN,17,Afternoon,June,Fri,17.0
+2016-06-10 18:37:00,2016-06-10 18:39:00,Business,Unknown Location,Unknown Location,18.4,UNKNOWN,18,Evening,June,Fri,2.0
+2016-06-10 19:46:00,2016-06-10 20:26:00,Business,Unknown Location,Unknown Location,13.8,UNKNOWN,19,Evening,June,Fri,40.0
+2016-07-10 10:56:00,2016-07-10 10:59:00,Business,Unknown Location,Lahore,33.2,UNKNOWN,10,Morning,July,Sun,3.0
+2016-07-10 11:27:00,2016-07-10 11:50:00,Business,Lahore,Lahore,2.6,UNKNOWN,11,Morning,July,Sun,23.0
+2016-07-10 13:52:00,2016-07-10 14:08:00,Business,Lahore,Unknown Location,5.8,UNKNOWN,13,Afternoon,July,Sun,16.0
+2016-07-10 14:29:00,2016-07-10 15:11:00,Business,Unknown Location,Lahore,8.3,UNKNOWN,14,Afternoon,July,Sun,42.0
+2016-07-10 15:47:00,2016-07-10 16:02:00,Business,Lahore,Lahore,2.4,UNKNOWN,15,Afternoon,July,Sun,15.0
+2016-07-10 18:08:00,2016-07-10 18:27:00,Business,Lahore,Lahore,3.1,UNKNOWN,18,Evening,July,Sun,19.0
+2016-07-10 18:33:00,2016-07-10 19:01:00,Business,Lahore,Lahore,6.1,UNKNOWN,18,Evening,July,Sun,28.0
+2016-08-10 15:03:00,2016-08-10 15:03:00,Business,Karachi,Karachi,3.6,UNKNOWN,15,Afternoon,Aug,Wed,0.0
+2016-08-10 18:15:00,2016-08-10 18:18:00,Business,Karachi,Unknown Location,8.0,UNKNOWN,18,Evening,Aug,Wed,3.0
+2016-09-10 14:04:00,2016-09-10 14:23:00,Business,Unknown Location,Unknown Location,7.7,Temporary Site,14,Afternoon,Sep,Sat,19.0
+2016-10-10 17:22:00,2016-10-10 17:28:00,Business,Islamabad,Islamabad,1.7,UNKNOWN,17,Afternoon,Oct,Mon,6.0
+2016-10-10 17:33:00,2016-10-10 18:13:00,Business,Islamabad,Unknown Location,9.5,UNKNOWN,17,Afternoon,Oct,Mon,40.0
+2016-11-10 01:27:00,2016-11-10 02:08:00,Business,Unknown Location,R?walpindi,17.1,Meeting,1,Night,Nov,Thurs,41.0
+2016-12-10 19:18:00,2016-12-10 19:21:00,Business,R?walpindi,Unknown Location,18.4,UNKNOWN,19,Evening,Dec,Sat,3.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Islamabad,9.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Islamabad,1.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Islamabad,0.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Islamabad,2.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Unknown Location,10.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,R?walpindi,12.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,R?walpindi,Unknown Location,12.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,3.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,R?walpindi,17.0,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Morrisville,6.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,3.1,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Durham,10.5,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Durham,Morrisville,8.1,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,3.1,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Whitebridge,Parkway,2.1,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,4.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,2.5,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Raleigh,20.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Raleigh,Cary,17.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Apex,5.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Apex,Apex,3.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Apex,Cary,5.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Whitebridge,Edgehill Farms,3.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Edgehill Farms,Whitebridge,3.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,7.9,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Oakland,Emeryville,13.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Emeryville,Berkeley,3.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Berkeley,Emeryville,3.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Emeryville,Oakland,3.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Oakland,San Francisco,9.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,SOMISSPO,French Quarter,1.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,San Francisco,Berkeley,10.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,West Berkeley,North Berkeley Hills,4.1,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,North Berkeley Hills,Southside,2.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Berkeley,Emeryville,4.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Emeryville,Berkeley,3.1,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Berkeley,San Jose,47.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,San Jose,Emeryville,44.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Emeryville,Oakland,13.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,8.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Raleigh,17.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Raleigh,Cary,14.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Raleigh,28.1,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Raleigh,Cary,28.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,3.1,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,3.1,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Durham,16.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Durham,Morrisville,15.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,2.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Apex,11.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Apex,Eagle Rock,2.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Eagle Rock,Cary,3.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Whitebridge,Savon Height,3.6,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Savon Height,Parkway,4.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Parkway,Whitebridge,8.7,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Whitebridge,Parkway,2.1,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Parkway,Whitebridge,2.1,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,8.4,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Morrisville,5.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Huntington Woods,Huntington Woods,12.1,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Huntington Woods,Weston,3.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,6.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Durham,10.4,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Durham,Cary,9.9,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Winston Salem,107.0,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Winston Salem,Asheville,133.6,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Asheville,Topton,91.8,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Topton,Hayesville,40.7,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Hayesville,Topton,75.7,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Topton,Bryson City,29.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Bryson City,Bryson City,16.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Bryson City,Bryson City,6.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Bryson City,Bryson City,6.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Bryson City,Almond,6.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Almond,Bryson City,15.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Bryson City,Asheville,68.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Asheville,Mebane,195.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Mebane,Cary,45.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,3.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Raleigh,10.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Raleigh,Cary,13.1,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Savon Height,Whitebridge,9.6,Errand/Supplies,0,,Jan,Wed,0.0
+2016-01-11 11:50:00,2016-01-11 12:27:00,Business,Cary,Durham,16.5,UNKNOWN,11,Morning,Jan,Mon,37.0
+2016-01-11 16:29:00,2016-01-11 17:02:00,Business,Durham,Cary,12.8,UNKNOWN,16,Afternoon,Jan,Mon,33.0
+2016-01-11 17:35:00,2016-01-11 17:42:00,Business,Whitebridge,Whitebridge,1.2,UNKNOWN,17,Afternoon,Jan,Mon,7.0
+2016-01-11 19:14:00,2016-01-11 19:20:00,Business,Whitebridge,Whitebridge,1.0,UNKNOWN,19,Evening,Jan,Mon,6.0
+2016-01-11 19:59:00,2016-01-11 20:12:00,Business,Whitebridge,Whitebridge,4.1,UNKNOWN,19,Evening,Jan,Mon,13.0
+2016-01-11 20:41:00,2016-01-11 20:55:00,Business,Whitebridge,Whitebridge,4.2,Meal/Entertain,20,Evening,Jan,Mon,14.0
+2016-02-11 15:10:00,2016-02-11 15:18:00,Business,Whitebridge,Westpark Place,1.4,UNKNOWN,15,Afternoon,Feb,Thurs,8.0
+2016-02-11 15:45:00,2016-02-11 15:52:00,Business,Westpark Place,Whitebridge,1.8,UNKNOWN,15,Afternoon,Feb,Thurs,7.0
+2016-02-11 16:46:00,2016-02-11 17:11:00,Business,Cary,Morrisville,8.5,Meeting,16,Afternoon,Feb,Thurs,25.0
+2016-02-11 17:34:00,2016-02-11 17:49:00,Business,Morrisville,Morrisville,5.0,UNKNOWN,17,Afternoon,Feb,Thurs,15.0
+2016-02-11 17:53:00,2016-02-11 18:00:00,Business,Morrisville,Cary,3.8,UNKNOWN,17,Afternoon,Feb,Thurs,7.0
+2016-03-11 11:28:00,2016-03-11 11:34:00,Business,Whitebridge,Hazelwood,2.5,UNKNOWN,11,Morning,Mar,Fri,6.0
+2016-03-11 12:43:00,2016-03-11 12:49:00,Business,Hazelwood,Whitebridge,2.4,UNKNOWN,12,Afternoon,Mar,Fri,6.0
+2016-03-11 13:42:00,2016-03-11 13:47:00,Business,Whitebridge,Westpark Place,1.4,UNKNOWN,13,Afternoon,Mar,Fri,5.0
+2016-03-11 14:13:00,2016-03-11 14:26:00,Business,Westpark Place,Whitebridge,1.8,UNKNOWN,14,Afternoon,Mar,Fri,13.0
+2016-03-11 18:51:00,2016-03-11 19:08:00,Business,Cary,Morrisville,3.1,Meal/Entertain,18,Evening,Mar,Fri,17.0
+2016-03-11 22:46:00,2016-03-11 22:58:00,Business,Morrisville,Cary,3.1,Customer Visit,22,Night,Mar,Fri,12.0
+2016-04-11 10:02:00,2016-04-11 10:18:00,Business,Cary,Morrisville,7.9,Temporary Site,10,Morning,April,Mon,16.0
+2016-04-11 18:14:00,2016-04-11 18:21:00,Business,San Jose,Santa Clara,3.8,UNKNOWN,18,Evening,April,Mon,7.0
+2016-04-11 21:04:00,2016-04-11 21:20:00,Business,Agnew,Cory,4.3,UNKNOWN,21,Evening,April,Mon,16.0
+2016-04-11 22:12:00,2016-04-11 22:25:00,Business,Cory,Agnew,3.9,UNKNOWN,22,Night,April,Mon,13.0
+2016-05-11 08:34:00,2016-05-11 08:43:00,Business,Agnew,Renaissance,2.2,UNKNOWN,8,Morning,May,Wed,9.0
+2016-05-11 17:29:00,2016-05-11 17:40:00,Business,Renaissance,Agnew,2.8,UNKNOWN,17,Afternoon,May,Wed,11.0
+2016-05-11 19:20:00,2016-05-11 19:28:00,Business,Agnew,Agnew,2.2,UNKNOWN,19,Evening,May,Wed,8.0
+2016-06-11 10:50:00,2016-06-11 11:04:00,Business,Agnew,Renaissance,2.4,UNKNOWN,10,Morning,June,Sat,14.0
+2016-06-11 16:05:00,2016-06-11 16:22:00,Business,Renaissance,Agnew,2.8,Meeting,16,Afternoon,June,Sat,17.0
+2016-06-11 16:27:00,2016-06-11 17:28:00,Business,Santa Clara,Berkeley,43.9,Customer Visit,16,Afternoon,June,Sat,61.0
+2016-06-11 19:04:00,2016-06-11 19:12:00,Business,Downtown,West Berkeley,1.8,UNKNOWN,19,Evening,June,Sat,8.0
+2016-06-11 20:06:00,2016-06-11 20:21:00,Business,West Berkeley,Central,3.3,UNKNOWN,20,Evening,June,Sat,15.0
+2016-07-11 12:28:00,2016-07-11 12:57:00,Business,Berkeley,San Francisco,11.8,Between Offices,12,Afternoon,July,Mon,29.0
+2016-07-11 19:17:00,2016-07-11 19:57:00,Business,San Francisco,Berkeley,13.2,Between Offices,19,Evening,July,Mon,40.0
+2016-08-11 10:29:00,2016-08-11 10:57:00,Business,Berkeley,San Francisco,12.2,Between Offices,10,Morning,Aug,Thurs,28.0
+2016-08-11 12:16:00,2016-08-11 12:49:00,Business,San Francisco,Berkeley,11.3,Meeting,12,Afternoon,Aug,Thurs,33.0
+2016-08-11 13:41:00,2016-08-11 14:01:00,Business,Berkeley,Emeryville,3.6,UNKNOWN,13,Afternoon,Aug,Thurs,20.0
+2016-08-11 16:21:00,2016-08-11 16:34:00,Business,Emeryville,Berkeley,3.0,UNKNOWN,16,Afternoon,Aug,Thurs,13.0
+2016-09-11 13:08:00,2016-09-11 13:41:00,Business,Berkeley,San Francisco,11.4,UNKNOWN,13,Afternoon,Sep,Sun,33.0
+2016-09-11 15:58:00,2016-09-11 16:04:00,Business,NOMA,Downtown,0.9,UNKNOWN,15,Afternoon,Sep,Sun,6.0
+2016-09-11 17:31:00,2016-09-11 18:03:00,Business,Downtown,Sunnyside,6.2,UNKNOWN,17,Afternoon,Sep,Sun,32.0
+2016-09-11 18:09:00,2016-09-11 18:14:00,Business,Sunnyside,Ingleside,0.7,UNKNOWN,18,Evening,Sep,Sun,5.0
+2016-09-11 18:21:00,2016-09-11 18:35:00,Business,Ingleside,Potrero Flats,5.5,Meeting,18,Evening,Sep,Sun,14.0
+2016-09-11 18:40:00,2016-09-11 19:17:00,Business,San Francisco,Oakland,12.7,Customer Visit,18,Evening,Sep,Sun,37.0
+2016-09-11 20:52:00,2016-09-11 21:02:00,Business,Oakland,Berkeley,2.6,UNKNOWN,20,Evening,Sep,Sun,10.0
+2016-09-11 21:56:00,2016-09-11 22:02:00,Business,Central,Central,1.1,UNKNOWN,21,Evening,Sep,Sun,6.0
+2016-10-11 09:46:00,2016-10-11 10:15:00,Business,Berkeley,San Francisco,12.6,Temporary Site,9,Morning,Oct,Tues,29.0
+2016-10-11 10:20:00,2016-10-11 10:31:00,Business,Tenderloin,SOMISSPO,1.2,UNKNOWN,10,Morning,Oct,Tues,11.0
+2016-10-11 14:57:00,2016-10-11 15:07:00,Business,SOMISSPO,Tenderloin,1.1,UNKNOWN,14,Afternoon,Oct,Tues,10.0
+2016-10-11 15:17:00,2016-10-11 15:22:00,Business,San Francisco,Oakland,9.9,Temporary Site,15,Afternoon,Oct,Tues,5.0
+2016-10-11 15:30:00,2016-10-11 15:53:00,Business,Oakland,Berkeley,6.0,Meeting,15,Afternoon,Oct,Tues,23.0
+2016-10-11 19:18:00,2016-10-11 19:21:00,Business,West Berkeley,Central,0.8,UNKNOWN,19,Evening,Oct,Tues,3.0
+2016-11-11 09:35:00,2016-11-11 10:23:00,Business,Berkeley,Menlo Park,45.9,Customer Visit,9,Morning,Nov,Fri,48.0
+2016-11-11 12:58:00,2016-11-11 13:13:00,Business,Menlo Park,Palo Alto,4.0,UNKNOWN,12,Afternoon,Nov,Fri,15.0
+2016-11-11 14:20:00,2016-11-11 14:32:00,Business,Palo Alto,Menlo Park,2.5,UNKNOWN,14,Afternoon,Nov,Fri,12.0
+2016-11-11 14:39:00,2016-11-11 15:46:00,Business,Menlo Park,Berkeley,36.6,Customer Visit,14,Afternoon,Nov,Fri,67.0
+2016-11-11 18:30:00,2016-11-11 18:43:00,Business,Central,College Avenue,2.9,UNKNOWN,18,Evening,Nov,Fri,13.0
+2016-11-11 21:08:00,2016-11-11 21:18:00,Business,College Avenue,Central,2.6,UNKNOWN,21,Evening,Nov,Fri,10.0
+2016-12-11 10:32:00,2016-12-11 10:52:00,Business,Central,South,2.3,UNKNOWN,10,Morning,Dec,Sun,20.0
+2016-12-11 10:55:00,2016-12-11 11:25:00,Business,South,Downtown,6.4,UNKNOWN,10,Morning,Dec,Sun,30.0
+2016-12-11 13:07:00,2016-12-11 13:15:00,Business,Downtown,Central,1.4,UNKNOWN,13,Afternoon,Dec,Sun,8.0
+2016-12-11 13:46:00,2016-12-11 13:50:00,Business,Central,West Berkeley,0.6,UNKNOWN,13,Afternoon,Dec,Sun,4.0
+2016-12-11 14:22:00,2016-12-11 14:53:00,Business,West Berkeley,South,5.9,Meeting,14,Afternoon,Dec,Sun,31.0
+2016-12-11 15:14:00,2016-12-11 15:21:00,Business,South,Southwest Berkeley,0.8,UNKNOWN,15,Afternoon,Dec,Sun,7.0
+2016-12-11 15:25:00,2016-12-11 15:36:00,Business,Berkeley,Emeryville,1.3,UNKNOWN,15,Afternoon,Dec,Sun,11.0
+2016-12-11 15:40:00,2016-12-11 15:59:00,Business,Emeryville,Berkeley,3.7,Errand/Supplies,15,Afternoon,Dec,Sun,19.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Central,Central,2.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Central,Central,2.6,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Central,Southside,1.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Southside,West Berkeley,2.1,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,West Berkeley,Southside,4.0,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Southside,South Berkeley,0.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,South Berkeley,Southside,0.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Southside,Central,2.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Central,Southside,1.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Southside,Central,1.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Berkeley,Mountain View,44.6,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Mountain View,Berkeley,43.6,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Berkeley,Emeryville,2.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Emeryville,Berkeley,3.7,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Berkeley,Oakland,5.1,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Oakland,San Francisco,9.7,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,San Francisco,Berkeley,11.8,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Berkeley,El Cerrito,2.3,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,El Cerrito,Berkeley,3.1,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Berkeley,Oakland,16.3,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,3.1,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,5.2,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Krendle Woods,Whitebridge,6.1,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Durham,10.3,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Durham,Cary,10.5,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,1.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,1.8,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Apex,5.4,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Apex,Cary,5.4,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,39.2,Between Offices,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,6.4,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,2.7,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,18.5,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,2.5,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,2.1,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Unknown Location,6.7,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Morrisville,3.5,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,3.4,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,5.5,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,4.1,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,12.7,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,3.0,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,3.5,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,5.9,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,1.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,3.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,1.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Durham,10.3,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Durham,Cary,11.1,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,1.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Apex,5.1,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Apex,Holly Springs,9.0,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Holly Springs,Cary,13.3,Between Offices,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,2.5,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,3.3,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,2.9,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Raleigh,8.5,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Raleigh,Morrisville,6.7,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,3.1,UNKNOWN,0,,Jan,Wed,0.0
+2016-01-12 07:44:00,2016-01-12 07:59:00,Business,Cary,Cary,5.5,Meeting,7,Morning,Jan,Tues,15.0
+2016-01-12 08:37:00,2016-01-12 08:53:00,Business,Cary,Cary,5.5,Errand/Supplies,8,Morning,Jan,Tues,16.0
+2016-01-12 18:00:00,2016-01-12 18:12:00,Business,Cary,Morrisville,2.9,Meal/Entertain,18,Evening,Jan,Tues,12.0
+2016-01-12 20:36:00,2016-01-12 20:46:00,Business,Morrisville,Cary,2.9,Customer Visit,20,Evening,Jan,Tues,10.0
+2016-02-12 12:12:00,2016-02-12 12:23:00,Business,Cary,Apex,5.1,Meal/Entertain,12,Afternoon,Feb,Fri,11.0
+2016-02-12 13:07:00,2016-02-12 13:22:00,Business,Apex,Cary,5.3,Customer Visit,13,Afternoon,Feb,Fri,15.0
+2016-02-12 20:41:00,2016-02-12 20:48:00,Business,Cary,Morrisville,3.3,Meal/Entertain,20,Evening,Feb,Fri,7.0
+2016-02-12 22:59:00,2016-02-12 23:07:00,Business,Morrisville,Cary,3.0,Customer Visit,22,Night,Feb,Fri,8.0
+2016-03-12 18:35:00,2016-03-12 18:56:00,Business,Cary,Wake Co.,6.6,Errand/Supplies,18,Evening,Mar,Sat,21.0
+2016-03-12 19:08:00,2016-03-12 19:15:00,Business,Wake Co.,Morrisville,1.8,UNKNOWN,19,Evening,Mar,Sat,7.0
+2016-03-12 20:31:00,2016-03-12 20:41:00,Business,Morrisville,Cary,3.0,Customer Visit,20,Evening,Mar,Sat,10.0
+2016-04-12 18:56:00,2016-04-12 19:03:00,Business,Cary,Morrisville,2.9,Meal/Entertain,18,Evening,April,Tues,7.0
+2016-04-12 20:23:00,2016-04-12 20:34:00,Business,Morrisville,Cary,3.4,Customer Visit,20,Evening,April,Tues,11.0
+2016-05-12 18:04:00,2016-05-12 18:17:00,Business,Cary,Cary,4.1,UNKNOWN,18,Evening,May,Thurs,13.0
+2016-05-12 19:22:00,2016-05-12 19:37:00,Business,Cary,Cary,3.8,Meal/Entertain,19,Evening,May,Thurs,15.0
+2016-07-12 12:03:00,2016-07-12 12:32:00,Business,Cary,Cary,6.6,Meeting,12,Afternoon,July,Tues,29.0
+2016-07-12 12:35:00,2016-07-12 12:46:00,Business,Cary,Cary,4.0,Meeting,12,Afternoon,July,Tues,11.0
+2016-07-12 19:53:00,2016-07-12 20:13:00,Business,Cary,Cary,7.0,Customer Visit,19,Evening,July,Tues,20.0
+2016-07-12 21:13:00,2016-07-12 21:50:00,Business,Cary,Cary,6.9,Meal/Entertain,21,Evening,July,Tues,37.0
+2016-08-12 14:19:00,2016-08-12 14:32:00,Business,Cary,Cary,3.4,Errand/Supplies,14,Afternoon,Aug,Fri,13.0
+2016-08-12 14:53:00,2016-08-12 15:02:00,Business,Cary,Cary,3.4,Errand/Supplies,14,Afternoon,Aug,Fri,9.0
+2016-08-12 19:22:00,2016-08-12 19:27:00,Business,Cary,Cary,2.0,Meeting,19,Evening,Aug,Fri,5.0
+2016-08-12 21:26:00,2016-08-12 21:31:00,Business,Cary,Cary,2.0,Errand/Supplies,21,Evening,Aug,Fri,5.0
+2016-09-12 12:09:00,2016-09-12 12:24:00,Business,Cary,Apex,5.1,Errand/Supplies,12,Afternoon,Sep,Mon,15.0
+2016-09-12 13:15:00,2016-09-12 13:43:00,Business,Apex,Cary,8.8,Temporary Site,13,Afternoon,Sep,Mon,28.0
+2016-09-12 20:11:00,2016-09-12 20:34:00,Business,Cary,Cary,5.6,Meeting,20,Evening,Sep,Mon,23.0
+2016-09-12 22:03:00,2016-09-12 22:57:00,Business,Cary,Cary,18.9,Customer Visit,22,Night,Sep,Mon,54.0
+2016-10-12 12:43:00,2016-10-12 13:16:00,Business,Cary,Fuquay-Varina,15.6,Meeting,12,Afternoon,Oct,Wed,33.0
+2016-10-12 14:42:00,2016-10-12 15:18:00,Business,Fuquay-Varina,Cary,15.6,Errand/Supplies,14,Afternoon,Oct,Wed,36.0
+2016-10-12 18:17:00,2016-10-12 18:27:00,Business,Cary,Morrisville,3.0,Meal/Entertain,18,Evening,Oct,Wed,10.0
+2016-10-12 22:09:00,2016-10-12 22:21:00,Business,Morrisville,Cary,3.1,Customer Visit,22,Night,Oct,Wed,12.0
+2016-11-12 16:06:00,2016-11-12 16:16:00,Business,Cary,Morrisville,3.0,Meal/Entertain,16,Afternoon,Nov,Sat,10.0
+2016-11-12 19:05:00,2016-11-12 19:15:00,Business,Morrisville,Cary,4.8,Errand/Supplies,19,Evening,Nov,Sat,10.0
+2016-11-12 21:48:00,2016-11-12 21:56:00,Business,Cary,Cary,2.1,Errand/Supplies,21,Evening,Nov,Sat,8.0
+2016-12-12 13:22:00,2016-12-12 13:32:00,Business,Cary,Cary,3.1,Errand/Supplies,13,Afternoon,Dec,Mon,10.0
+2016-12-12 13:36:00,2016-12-12 13:51:00,Business,Cary,Apex,4.4,Meal/Entertain,13,Afternoon,Dec,Mon,15.0
+2016-12-12 14:26:00,2016-12-12 14:39:00,Business,Apex,Cary,4.7,Customer Visit,14,Afternoon,Dec,Mon,13.0
+2016-12-12 17:51:00,2016-12-12 18:01:00,Business,Cary,Morrisville,3.0,Meal/Entertain,17,Afternoon,Dec,Mon,10.0
+2016-12-12 20:48:00,2016-12-12 20:57:00,Business,Morrisville,Cary,3.0,Customer Visit,20,Evening,Dec,Mon,9.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,4.2,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,4.1,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,3.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Cary,3.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,3.0,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Morrisville,Cary,3.1,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Cary,Morrisville,10.6,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,4.8,Airport/Travel,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,5.3,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,4.9,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,10.2,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,9.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Islamabad,7.7,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Rawalpindi,5.9,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Rawalpindi,Unknown Location,0.7,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,1.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,2.5,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,5.3,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,5.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Rawalpindi,10.2,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Rawalpindi,Islamabad,7.2,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Unknown Location,2.2,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,11.0,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Rawalpindi,12.0,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Rawalpindi,Rawalpindi,3.3,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Rawalpindi,Unknown Location,19.4,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,1.7,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Islamabad,5.7,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Islamabad,1.8,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Islamabad,1.4,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Unknown Location,10.3,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,11.5,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Islamabad,4.9,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Unknown Location,3.5,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,16.2,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,2.0,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Islamabad,2.1,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Islamabad,2.1,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Islamabad,Unknown Location,7.2,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Rawalpindi,12.0,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Rawalpindi,Unknown Location,103.0,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,32.3,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,5.3,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,11.6,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,23.2,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,3.2,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,12.3,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Lahore,14.0,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Lahore,2.1,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Lahore,2.1,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Lahore,3.0,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Unknown Location,6.2,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,9.6,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,1.3,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Lahore,7.1,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Unknown Location,6.3,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Lahore,10.7,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Lahore,5.3,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Lahore,1.6,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Lahore,3.6,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Lahore,1.7,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Lahore,2.9,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Lahore,0.6,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Lahore,0.6,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Lahore,2.3,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Lahore,2.3,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Lahore,3.2,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Lahore,6.2,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Lahore,7.7,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Lahore,3.8,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Lahore,Unknown Location,7.9,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kar?chi,Kar?chi,4.9,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kar?chi,Kar?chi,5.0,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kar?chi,Kar?chi,0.6,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kar?chi,Unknown Location,3.1,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Kar?chi,7.9,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kar?chi,Kar?chi,5.5,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kar?chi,Unknown Location,10.3,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Kar?chi,10.4,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kar?chi,Kar?chi,2.0,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kar?chi,Unknown Location,8.5,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Kar?chi,4.4,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kar?chi,Kar?chi,3.8,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kar?chi,Kar?chi,5.1,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kar?chi,Kar?chi,3.8,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kar?chi,Unknown Location,11.6,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Kar?chi,11.9,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kar?chi,Kar?chi,1.4,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kar?chi,Kar?chi,1.1,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kar?chi,Kar?chi,4.1,Airport/Travel,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kar?chi,Kar?chi,6.1,Between Offices,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kar?chi,Kar?chi,1.3,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kar?chi,Unknown Location,3.0,Meal/Entertain,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Kar?chi,4.1,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kar?chi,Kar?chi,7.2,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kar?chi,Unknown Location,6.4,UNKNOWN,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Kar?chi,12.9,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kar?chi,Kar?chi,2.8,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kar?chi,Kar?chi,2.9,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kar?chi,Kar?chi,4.6,Errand/Supplies,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kar?chi,Kar?chi,4.6,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kar?chi,Kar?chi,0.8,Customer Visit,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kar?chi,Kar?chi,0.7,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Kar?chi,Unknown Location,3.9,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Unknown Location,Unknown Location,16.2,Meeting,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Katunayake,Gampaha,6.4,Temporary Site,0,,Jan,Wed,0.0
+2020-01-01 00:00:00,2020-01-01 00:00:00,Business,Gampaha,Ilukwatta,48.2,Temporary Site,0,,Jan,Wed,0.0
